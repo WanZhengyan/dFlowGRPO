@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+logs/
+output_*/
+eval_*_results/
+discrete_flow_grpo/dataset_understanding/
+wandb/
+*.log
+FUDOKI/checkpoints

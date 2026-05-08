@@ -1,0 +1,34 @@
+# Checkpoints & model outputs (real LoRA ckpts live under output_*/)
+output_*/
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.bin
+
+# Log files
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Wandb
+wandb/
+
+# Eval generated images (eval_*/ JSON aggregates are kept by top-level .gitignore)
+eval_results/
+eval_images*/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
