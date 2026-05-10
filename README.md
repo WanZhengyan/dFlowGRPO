@@ -1,4 +1,4 @@
-# dFlowGRPO
+# dFlowGRPO: Rate-Aware Policy Optimization for Discrete Flow Models
 
 Rate-Aware RL for [FUDOKI](https://huggingface.co/LucasJinWang/FUDOKI),
 a discrete flow-based multimodal model.
